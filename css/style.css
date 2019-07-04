@@ -1,0 +1,13 @@
+.scoobydoo {
+  width: 500px;
+  height: 500px;
+  background: url("https://data.pixiz.com/output/user/frame/preview/400x400/9/0/5/0/3190509_511cc.jpg")
+    no-repeat;
+  margin: 50px;
+}
+.scoobydoo:hover {
+  width: 500px;
+  height: 500px;
+  background: url("https://www.decalsextremeonline.com/thumbnail.asp?file=assets/images/scoobydoojumping.jpg&maxx=300&maxy=0")
+    no-repeat;
+}

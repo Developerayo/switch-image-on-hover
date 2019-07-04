@@ -1,0 +1,20 @@
+{
+  "name": "Make Scooby Doo Happy by Hovering",
+  "version": "1.0",
+  "description": "Switch images on hover and make Scooby Do happy",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codesandbox-app/static-template.git"
+  },
+  "keywords": [],
+  "author": "Shodipo Ayomide",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codesandbox-app/static-template/issues"
+  },
+  "homepage": "https://github.com/codesandbox-app/static-template#readme"
+}
